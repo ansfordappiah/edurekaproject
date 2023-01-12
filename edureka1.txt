@@ -1,1 +1,7 @@
 Hi this is a session from edureka
+And that’s it! The changes you made are now in the database and safely stored. But
+only on your computer! The others can’t see your work because you worked on your
+own repository and on a different branch. To show your work to others, you have to push
+your commits to the remote server. But you have to show the code to the senior dev first
+before making a push. If they are okay with it, you can merge your branch with the main
+snapshot of the project (called the master branch). So
